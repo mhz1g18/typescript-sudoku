@@ -1,4 +1,5 @@
 {
+  "homepage": "http://mhz1g18.github.io/typescript-sudoku",
   "name": "react-ts-sudoku",
   "version": "0.1.0",
   "private": true,
@@ -22,6 +23,8 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -47,6 +50,7 @@
   },
   "devDependencies": {
     "@types/react": "^17.0.11",
-    "@types/react-transition-group": "^4.4.1"
+    "@types/react-transition-group": "^4.4.1",
+    "gh-pages": "^3.2.3"
   }
 }
