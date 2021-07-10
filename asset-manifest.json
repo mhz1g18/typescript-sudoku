@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/typescript-sudoku/static/css/main.de75fa26.chunk.css",
+    "main.js": "/typescript-sudoku/static/js/main.2948a25e.chunk.js",
+    "main.js.map": "/typescript-sudoku/static/js/main.2948a25e.chunk.js.map",
+    "runtime-main.js": "/typescript-sudoku/static/js/runtime-main.f5001dac.js",
+    "runtime-main.js.map": "/typescript-sudoku/static/js/runtime-main.f5001dac.js.map",
+    "static/js/2.8a459f7e.chunk.js": "/typescript-sudoku/static/js/2.8a459f7e.chunk.js",
+    "static/js/2.8a459f7e.chunk.js.map": "/typescript-sudoku/static/js/2.8a459f7e.chunk.js.map",
+    "static/js/3.fce4f473.chunk.js": "/typescript-sudoku/static/js/3.fce4f473.chunk.js",
+    "static/js/3.fce4f473.chunk.js.map": "/typescript-sudoku/static/js/3.fce4f473.chunk.js.map",
+    "index.html": "/typescript-sudoku/index.html",
+    "static/css/main.de75fa26.chunk.css.map": "/typescript-sudoku/static/css/main.de75fa26.chunk.css.map",
+    "static/js/2.8a459f7e.chunk.js.LICENSE.txt": "/typescript-sudoku/static/js/2.8a459f7e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5001dac.js",
+    "static/js/2.8a459f7e.chunk.js",
+    "static/css/main.de75fa26.chunk.css",
+    "static/js/main.2948a25e.chunk.js"
+  ]
+}
