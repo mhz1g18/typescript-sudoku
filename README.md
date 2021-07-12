@@ -1,4 +1,4 @@
-# SortViz
+# SuDoKu
 
 A sudoku web-app based game. It provides a respnsive layout designed to run on both mobile and desktop devices. 
 
