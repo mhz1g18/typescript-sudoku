@@ -3,7 +3,7 @@
 A sudoku web-app based game. It provides a respnsive layout designed to run on both mobile and desktop devices. 
 
 ### `Try it`
-https://github.com/mhz1g18/typescript-sudoku
+https://mhz1g18.github.io/typescript-sudoku/
 
 ## Features
 * Generate sudoku boards with a *unique* solution by using a backtracking algorithm
